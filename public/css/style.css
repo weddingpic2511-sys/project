@@ -1,0 +1,6 @@
+body{ font-family: Arial, sans-serif; background:#f4f6fb; color:#222 }
+.container{ max-width:700px; margin:40px auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.05) }
+input, button{ display:block; width:100%; padding:8px; margin:8px 0 }
+button{ cursor:pointer }
+table{ width:100%; border-collapse:collapse }
+td, th{ border:1px solid #eee; padding:8px }
